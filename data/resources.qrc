@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix=".png">
+    <file>icons/button_black_w.png</file>
+    <file>icons/button_black_CT.png</file>
+    <file>icons/button_black_E.png</file>
+    <file>icons/button.png</file>
+    <file>icons/transparent.png</file>
+    <file>icons/button_black.png</file>
+    <file>icons/ap.png</file>
+    <file>icons/ap2.png</file>
+    <file>icons/exit.png</file>
+    <file>icons/exit2.png</file>
+    <file>icons/togle_time.png</file>
+    <file>icons/togle_time2.png</file>
+    <file>icons/the-button-859349_640.png</file>
+  </qresource>
+</RCC>
